@@ -1,6 +1,6 @@
-/* fire style sheet
+/* ice style sheet*/
 body {
-  background-color: #f45555;
+  background-color: #859fc1;
 }
 
 p {
@@ -10,4 +10,8 @@ p {
 td > img {
   height: 250px;
   width: 250px;
-}*/
+}
+
+h1, h2 {
+  color: #d3d9e2;
+}
