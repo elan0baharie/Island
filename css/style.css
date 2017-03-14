@@ -1,0 +1,13 @@
+/* fire style sheet
+body {
+  background-color: #f45555;
+}
+
+p {
+  font-size: 25px;
+}
+
+td > img {
+  height: 250px;
+  width: 250px;
+}*/
